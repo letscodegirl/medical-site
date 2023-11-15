@@ -2,8 +2,7 @@
 layout: post
 title: My first post
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
-  ab, eum dolore perspiciatis tenetur alias aspernatur
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Tina May
 featured: true
 categories:

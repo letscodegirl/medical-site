@@ -1,16 +1,16 @@
 ---
 layout: post-with-sidebar
-title: My ninth post 
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
+title: My ninth post
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Catherine
 featured: true
 categories: [life, self care]
 featured_image: https://source.unsplash.com/random?sig=8
-seo: 
-    title: 
-    description: 
-    social_image: 
-    keywords: 
+seo:
+    title:
+    description:
+    social_image:
+    keywords:
     hide-from-google: false
 ---
 
