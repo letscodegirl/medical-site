@@ -19,6 +19,7 @@ seo:
 _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
+video_path: "/uploads/01BSTHEBODY.mp4"
 ---
 ## Adventures in Bali
 
@@ -34,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .float-left-image width="3182" height="3181"}
+![](/uploads/01BSTHEBODY.mp4){: width="3182" height="3181"}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 
