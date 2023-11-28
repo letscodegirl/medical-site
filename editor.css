@@ -21,13 +21,13 @@ img.one-half-image {
 img.float-left-image {
     max-width:50%;
     float: left;
-    margin: 0 2rem 0.5rem -2rem;
+    margin: 0 2rem 0.5rem 0rem;
 }
 
 img.float-right-image {
     max-width:50%;
     float: right;
-    margin: 0 -2rem 0.5rem 2rem;
+    margin: 0 0rem 0.5rem 2rem;
 }
 
 img.small-centered-image {
