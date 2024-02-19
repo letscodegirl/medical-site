@@ -11,6 +11,10 @@
 
 img { max-width: 100%; height: auto; }
 
+.linespacefix {
+  font-size: 0;
+}
+
 /* Override default gridlex padding */
 [class*=col] { padding: 0; }
 [class*=grid] { margin: 0; }

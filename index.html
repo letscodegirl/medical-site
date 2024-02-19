@@ -36,7 +36,7 @@ about-video-id: /uploads/01BSTHEBODY.mp4
         {% for post in featured_posts limit: 9%}
 
             <div class="col-4 post-item padded-05">
-                <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                <div class="bg-image linespacefix" style="background-image:url( '{{ post.featured_image }}' );"><img src="/uploads/frame.png"></div>
                 <div class="padded-t-1">
 
                     {% for item in post.categories %}
