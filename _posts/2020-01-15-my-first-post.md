@@ -19,7 +19,6 @@ seo:
 _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
-video_path: "/uploads/01BSTHEBODY.mp4"
 ---
 ## Adventures in Bali
 
@@ -35,7 +34,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 
-![](/uploads/01BSTHEBODY.mp4){: width="3182" height="3181"}
+<video width="100%" autoplay muted loop>
+            <source src="/uploads/01BSTHEBODY.mp4" type="video/mp4">
+            MedBUSAN
+            <!-- in case vid is not playing -->
+        </video>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 
