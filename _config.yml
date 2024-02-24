@@ -2,11 +2,11 @@ collections:
   posts:
     output: true
     permalink: /posts/:year/:slug
-  archives: 
+  archives:
     output: true
     permalink: /:title
-    
-    
+
+
 _options:
   content:
     styles: /editor.css
@@ -29,4 +29,3 @@ _options:
     underline: true
     strike: true
     image: true
-    
