@@ -5,9 +5,6 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Tina May
 featured: true
-categories:
-  - travel
-  - life
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
   title:

@@ -4,7 +4,6 @@ title: My fifth post
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Tina
 featured: true
-categories: [travel]
 featured_image: https://source.unsplash.com/random?sig=3
 seo:
     title:

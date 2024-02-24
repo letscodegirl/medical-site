@@ -4,7 +4,6 @@ title: My sixth post
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: James
 featured: true
-categories: [self care]
 featured_image: https://source.unsplash.com/random?sig=2
 seo:
     title:

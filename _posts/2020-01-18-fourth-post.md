@@ -4,7 +4,6 @@ title: My fourth post
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Catherine
 featured: true
-categories: [life]
 featured_image: https://source.unsplash.com/random?sig=4
 seo:
     title:

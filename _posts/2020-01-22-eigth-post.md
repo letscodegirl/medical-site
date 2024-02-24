@@ -4,7 +4,6 @@ title: My eigth post
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Tina
 featured: true
-categories: [life, self care]
 featured_image: https://source.unsplash.com/random?sig=9
 seo:
     title:

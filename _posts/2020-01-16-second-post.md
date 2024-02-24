@@ -4,7 +4,6 @@ title: My second post
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Daniel
 featured: true
-categories: [food]
 featured_image: https://source.unsplash.com/random?sig=6
 seo:
     title:

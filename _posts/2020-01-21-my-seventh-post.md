@@ -5,9 +5,6 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 author: Lucy
 featured: true
-categories:
-  - self care
-  - food
 featured_image: https://source.unsplash.com/random?sig=10
 seo:
   title:
