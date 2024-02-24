@@ -1,10 +1,9 @@
 ---
 layout: post
-title: My fifth post
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Пусанская больница Сам Юк
 author: Tina
 featured: true
-featured_image: https://source.unsplash.com/random?sig=3
+featured_image: https://symcb.co.kr/data/file/gallery/988242383_wayU2AVT_36a9ac84693644a7f66fe49fd1dffcf26172f6af.jpg
 seo:
     title:
     description:

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: My sixth post
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Госпиталь Пусанского Национального Университета
 author: James
 featured: true
-featured_image: https://source.unsplash.com/random?sig=2
+featured_image: https://bimtc.busan.com/bbs/data/members/13_102_1663293409.png
 seo:
     title:
     description:

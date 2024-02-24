@@ -1,11 +1,9 @@
 ---
 layout: post
-title: what
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Клиника пластической хирургии SHE'S
 author: Tina May
 featured: true
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: https://www.shesps.com/img/02_introduce/03/sub2_3_1.jpg
 seo:
   title:
   description:

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: My third post
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Больница Хеундэ Бек при университете Индже
 author: Catherine
 featured: true
-featured_image: https://source.unsplash.com/random?sig=5
+featured_image: https://i.namu.wiki/i/Ql6ahPtbkAaRVFW_63OocV6t8r8F50kOniObkELxr0kQXJYo2NlWSgZ-HA7938F3blAsdLa59MBjOSwqoKGWUSh2joMAGIvZnGMQebE29bv7iugMJ0ntDU69Vymt5LOEimv-qNMAteETEz8FqWuouQ.webp
 seo:
     title:
     description:

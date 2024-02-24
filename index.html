@@ -36,7 +36,7 @@ video:
 
             <div class="col-4 post-item padded-05">
                 <div class="bg-image linespacefix portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                <div class="padded-t-1">
+                <div>
 
                     {% for item in post.categories %}
                         <span class="tag"> {{item}} </span>
@@ -44,7 +44,7 @@ video:
 
                     <h2 class="margin-t-1"> {{ post.title }} </h2>
                     <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Read More </a>
+                    <a href="{{ post.url }}" class="subtle-button"> Читать далее </a>
 
                 </div>
             </div>

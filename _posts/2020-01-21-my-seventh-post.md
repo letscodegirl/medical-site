@@ -1,11 +1,9 @@
 ---
 layout: post
-title: My seventh post
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Госпиталь при Университете Донг-А
 author: Lucy
 featured: true
-featured_image: https://source.unsplash.com/random?sig=10
+featured_image: https://bimtc.busan.com/bbs/data/members/15_103_1691636947.png
 seo:
   title:
   description:

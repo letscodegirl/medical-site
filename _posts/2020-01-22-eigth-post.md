@@ -1,10 +1,9 @@
 ---
 layout: post
-title: My eigth post
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Институт радиологических и медицинских исследований Доннам
 author: Tina
 featured: true
-featured_image: https://source.unsplash.com/random?sig=9
+featured_image: https://lh3.googleusercontent.com/p/AF1QipNLYDseJZSaFzbROidnN_Y7QWAPaLqUOeI94yYm=s1360-w1360-h1020
 seo:
     title:
     description:

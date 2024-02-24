@@ -1,10 +1,9 @@
 ---
 layout: post
-title: My fourth post
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Больница Сехва
 author: Catherine
 featured: true
-featured_image: https://source.unsplash.com/random?sig=4
+featured_image: http://swmedi2.makorang.com/data/editor/2008/26b3f9e9a12d297e12e2b00e2eafbae9_1597733525_2867.jpg
 seo:
     title:
     description:
