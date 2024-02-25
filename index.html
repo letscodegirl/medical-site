@@ -2,7 +2,7 @@
 layout: default
 title: Homepage
 seo:
-  title: Medical Website
+  title: Busan Medi
   description:
   social_image:
   twitter_card:
@@ -13,7 +13,7 @@ video:
 
 <!------------------------ Image Banner  ------------------------>
 
-<section class="padded tall-video">
+<section class="padded">
     <div class="embed-container">
         <img src="https://media.discordapp.net/attachments/1189448169713577984/1210866007808282664/letscodegirl_a_photorealistic_image_of_busan_south_korea_add_so_ac3d4290-f39a-4220-9b84-7afd0fd84e30.png?ex=65ec1dd9&is=65d9a8d9&hm=2c2642dc9dff9c927a3067e7e1afdc7b7ed1918649f1b789cd75dd858b0a931f&=&format=webp&quality=lossless&width=1670&height=936" alt="">
     </div>
@@ -21,13 +21,13 @@ video:
 
 
 <!------------------------ Featured blog loop ------------------------>
-<section class="padded">
+<section class="padded-b padded-lr">
 
     <div class="capped-width grid-center">
 
     <div class="col-12 padded-05 center margin-b-1">
         <h2> Busan's Hospitals </h2>
-        <p>there are many hospitals in busan</p>
+        <p class="padded-b">there are many hospitals in busan</p>
     </div>
 
         {% assign featured_posts = site.posts | where: 'featured', true %}
@@ -35,16 +35,17 @@ video:
         {% for post in featured_posts limit: 9%}
 
             <div class="col-4 post-item padded-05">
-                <div class="bg-image linespacefix portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                <a href="{{ post.url }}" class="img-c">
+                <div class="bg-image linespacefix portrait" style="background-image:url( '{{ post.featured_image }}' );">
+                <h3 class="hidden-h3"> {{ post.title }} </h3>
+                </div>
+                </a>
                 <div>
 
                     {% for item in post.categories %}
                         <span class="tag"> {{item}} </span>
                     {% endfor %}
-
-                    <h2 class="margin-t-1"> {{ post.title }} </h2>
                     <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Читать далее </a>
 
                 </div>
             </div>

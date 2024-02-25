@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Клиника пластической хирургии SHE'S
-author: Tina May
 featured: true
 featured_image: https://www.shesps.com/img/02_introduce/03/sub2_3_1.jpg
 seo:
@@ -21,19 +20,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 
-![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}![](/uploads/dee-copper-and-wild-1lbmrktx8gq-unsplash.jpg){: .one-half-image width="3182" height="3181"}
+<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 
-> Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est.
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
-
-<video width="100%" autoplay muted loop>
-            <source src="/uploads/01BSTHEBODY.mp4" type="video/mp4">
-            MedBUSAN
-            <!-- in case vid is not playing -->
-        </video>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 

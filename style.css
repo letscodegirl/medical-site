@@ -15,6 +15,12 @@ img { max-width: 100%; height: auto; }
   font-size: 0;
 }
 
+.img-c:hover {
+  filter: brightness(1.6);
+  opacity: 0.7;
+  transition: filter 0.3s ease, opacity 0.3s ease;
+}
+
 /* Override default gridlex padding */
 [class*=col] { padding: 0; }
 [class*=grid] { margin: 0; }
@@ -113,10 +119,25 @@ section { position: relative; }
 
 .bg-image {
     background-color: var(--light); /* Set a fall-back color while images are loading */
-    background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    position: relative;
+}
+
+.hidden-h3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  color: black;
+}
+
+.img-c:hover .hidden-h3 {
+  opacity: 1;
 }
 
 .bg-overlay::after {
@@ -171,13 +192,14 @@ a.bg-image { display: block;}
 .uppercase    { text-transform: uppercase; }
 
 body {
-  font-family: 'Mulish', serif;  /* Add your font here */
+  font-family: 'Mulish', serif;
   color: var(--dark-text);
 }
 
 h2, h3, h4, h5, h6 {
-  line-height: 1.1;
+  line-height: 1.4;
   margin-bottom: 1.2rem;
+  font-family: 'Mulish';
 }
 
 h2 { font-size: 2rem; }
@@ -379,15 +401,17 @@ nav a:hover {
   color: var(--medium-text);
 }
 
-/* Individual Blog Post Pages  */
+/* ----Individual Blog Post Pages----*/
 
 .blog-content h1 {
-  font-family: 'Martel', serif;
-  font-weight: 200;
+  font-family: 'Mulish', serif;
+  font-weight: 400;
   font-size: 3rem;
 }
 
 .blog-content p {
+  font-family: 'Mulish', serif;
+  font-size: 1rem;
   line-height: 1.6;
 }
 

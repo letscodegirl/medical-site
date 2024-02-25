@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Пусанская больница Сам Юк
-author: Tina
 featured: true
 featured_image: https://symcb.co.kr/data/file/gallery/988242383_wayU2AVT_36a9ac84693644a7f66fe49fd1dffcf26172f6af.jpg
 seo:
@@ -15,6 +14,8 @@ seo:
 ## Adventures in Bali
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+
+<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Институт радиологических и медицинских исследований Доннам
-author: Tina
 featured: true
 featured_image: https://lh3.googleusercontent.com/p/AF1QipNLYDseJZSaFzbROidnN_Y7QWAPaLqUOeI94yYm=s1360-w1360-h1020
 seo:
