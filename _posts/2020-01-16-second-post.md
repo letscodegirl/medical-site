@@ -2,7 +2,7 @@
 layout: post
 title: Клиника лечения варикоза LEDAS доктора Ким Бёнчжуна
 featured: true
-featured_image: https://lh3.googleusercontent.com/proxy/eh6hQsTnIVVwSjmYuG-GEUhsUnk7F2iWRCEFrQ_uDrvNBixVO2lvIdpW8wAudRSFNan1TKtQ5Fbwp80_7qv_a7BKFtFTxKXv6kwuAJc3IIVheQx6
+featured_image: http://www.kbjledas.com/new/Img/sub/slide-vs05-02-01.jpg
 seo:
     title:
     description:
