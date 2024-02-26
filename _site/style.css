@@ -209,6 +209,11 @@ body {
   color: var(--dark-text);
 }
 
+.lightbody {
+  font-family: 'Mulish', serif;
+  color: var(--light-text);
+}
+
 h2, h3, h4, h5, h6 {
   line-height: 1.4;
   margin-bottom: 1.2rem;
@@ -224,7 +229,7 @@ h6 { font-size: 1.2rem; }
 p, li {
   line-height: 1.4;
   margin-bottom: 1rem;
-  font-family: 'Martel', serif;
+  font-family: 'Mulish', serif;
   font-weight: 200;
   font-size: 1rem;
 }

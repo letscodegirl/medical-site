@@ -29,3 +29,8 @@ _options:
     underline: true
     strike: true
     image: true
+
+
+languages:
+  - language: ko
+  - title: 부산메디

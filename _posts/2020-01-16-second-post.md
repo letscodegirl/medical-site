@@ -11,12 +11,19 @@ seo:
     hide-from-google: false
 ---
 
-## Adventures in Australia
+#### Направление медицинских консультаций
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Торакальный
 
-<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
+<img class="centered-img" src="http://www.kbjledas.com/data/report/d41ff8fb5e1640659989.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+#### Информация об учреждении
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+По состоянию на конец 2022 года в Корее зарегистрировано 32491 учреждение классической доказательной
+медицины, среди которых только 7 имеют действительный сертификат JCI (Объединённая Международная
+Медицинская Комиссия), и всего 7 клиник, сертифицированных KAHF (Корейская программа аккредитации
+медицинских учреждений, привлекающих иностранных пациентов, разработанная Министерством
+Здравоохранения и Социального Обеспечения Кореи) на привлечение и обслуживание
+международных пациентов.
+Клиника лечения варикоза LEDAS доктора Ким Бёнчжуна ставит безопасность пациентов на первое место,
+что подтверждают национальные и международные сертификаты.

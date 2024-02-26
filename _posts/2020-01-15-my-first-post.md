@@ -17,18 +17,16 @@ _comments:
 
 #### Направление медицинских консультаций
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Пластическая хирургия
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+<img class="centered-img" src="https://www.shesps.com/UploadFolder/editor_img/201611/20161123183442_387.jpg">
 
-<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
+#### Информация об учреждении
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Клиника пластической хирургии SHE’S была основана 23 лет назад. Размер клиники был невелик. Однако направление и цель работы клиники были чётко и ясно определены. Вместо того, чтобы сосредоточиться на привлечении клиентов, приоритет был отдан повышению качества результата процедур и услуг, предоставлемых клиникой.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Спустя 10 лет большинство клиентов посетили нашу клинику по рекомендациям наших постоянных клиентов. Пациенты, которые пришли к нам с момента основания клиники, продолжают пользоваться услугами нашей клиники на протяжении 23 лет. Нашу клинику посещает широкий спектр клиетов.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Нас посещают не только местные жители Пусана. После того, как мы начали привлекать иностранных клиентов, многие из них посетили нас по рекомендациям своих знакомых. Наши посетители приезжают со всех стран мира, таких как Японии, Китая, России, Тайваня, Гонконга и Вьетнама. Мы зарекомендовали себя как клиника пластической хирургии, которой могут доверять как местные, так и иностранные граждане.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Клиника пластической хирургии She's будет и в будущем стремиться cделать всё возможное для каждого посетителя. Мы не будем спешить, а будем постепенно осуществлять впечатляющее продвижение вперёд.

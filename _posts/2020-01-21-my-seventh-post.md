@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Госпиталь при Университете Донг-А
+title: Госпиталь при Университете <br> Донг-А
 featured: true
 featured_image: https://www.dailymedi.com/data/news_cont/2205/d20220522_3690494213_Fj2dKsz1_fde0c69194269e8367d1b6f519ddbf3c6e24fe58.jpg
 seo:
@@ -10,16 +10,15 @@ seo:
   keywords:
   hide-from-google: false
 ---
-## Adventures in Bali
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+#### Направление медицинских консультаций
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Кардиология, гастроэнтерология, гематологическая онкология, нефрология, эндокринология, ревматология, респираторная медицина, аллергология, инфекционные заболевания, педиатрия, неврология, психиатрия, дерматология, хирургия, сердечно-сосудистая и торакальная хирургия, ортопедическая хирургия, пластическая хирургия, нейрохирургия, акушерство и гинекология, офтальмология, отоларингология, урология, реабилитационная медицина, семейная медицина, ядерная медицина, медицина охраны труда и экологии, анестезиология, стоматология, неотложная медицина, радиология, радиационная онкология, лабораторная медицина, отделение патологии, отделение интенсивной терапии
 
-<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
+<img class="centered-img" src="https://db.kookje.co.kr/news2000/photo/2016/0913/L20160913.22029192012i1.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+#### Информация об учреждении
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Госпиталь при Университете Донг-А основан в 1990 году с основной философией «доверие, сервис и человечность», и в настоящее время имеет 36 медицинских отделений, 30 специализированных центров, 100 специальных клиник и 1000 коек. Госпиталь был выбран одним из 10 лучших в стране по версии Sisa Journal, также был признан Министерством торговли, промышленности и энергетики «Медицинским учреджением с превосходным качеством обслуживания». Он зарекомендовал себя как репрезентативная университетская больница в регионе Пусан.
+Отличный медицинский персонал, точное диагностическое оборудование, такое как новейшая установка МРТ высокого разрешения (Siemens MAGNETOM VIDA), КТ (GE Revolution™ APEX, GE Revolution™ Maxima), ПЭТ-КТ, ОФЭКТ-КТ (GE NMCT 870DR), «да Винчи» - роботизированная хирургия и сердечно-сосудистые технологии нового поколения, также мы оснащены эффективным лечебным оборудованием, таким как оборудование для лучевой терапии сосудов сердца под визуальным контролем, оборудование для лучевой терапии Elekta Infinity HD и новейшее оборудование Novalis, а также удобными медицинскими системами, такими как Full PACS (Система хранения и доставки изображения) и HIS (Интегрированная больничная информационная система).
+Госпиталь при Университете Донг-А был задействован для 10 проектов поддержки политики здравоохранения, включая Пусанский региональный центр сердечно-сосудистых заболеваний, Пусанский региональный центр неотложной медицинской помощи, Пусанский столичный центр деменции, Региональный центр интенсивной терапии новорожденных, Пусанский банк пуповинной крови и Пусанский региональный центр интенсивной терапии новорожденных, Центр здоровья и медицины инвалидов Мы делаем все возможное, чтобы помочь местным жителям вылечиться от болезней и вести здоровую и счастливую жизнь.

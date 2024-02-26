@@ -11,12 +11,19 @@ seo:
     hide-from-google: false
 ---
 
-## Adventures in Bali
+#### Направление медицинских консультаций
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+будет обновляться
 
-<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
+<img class="centered-img" src="https://www.medipharmhealth.co.kr/data/photos/20181250/art_15445849312847_74d1e7.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+#### Информация об учреждении
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Больница Пэк - это больница с 80-летней историей, которая началась с больницы общей хирургии Пэкин в 1941 году.
+Больница Хэундэ Пэк начала принимать иностранных пациентов под девизом "больница, уважающая жизнь и практикующая человеколюбие". Больница Хэундэ Пэк - это ориентированная на природу больница для лечения и отдыха пациентов, позиционируемая как центр медицинского туризма с лучшим медицинским персоналом и передовым медицинским оборудованием.
+В больнице работают 40 медицинских отделений, 19 специализированных клиник и 18 специализированных клиник.
+Помимо медицинских услуг, мы предоставляем услуги переводчика и консьержа, чтобы пациенты, приезжающие в Пусан, не испытывали неудобств, сотрудничая с компаниями медицинского туризма.
+Мы активно обмениваемся опытом с зарубежными партнерами и проводим такие проекты, как международные конференции, обучение врачей и совместные операции для обмена технологиями в области медицины.
+Ежегодно приглашаем пациентов с ограниченным доступом к медицинскому обслуживанию или финансовыми трудностями для совместного получения медицинской помощи
+Проведение информационных сессий и бесплатных консультаций для местных жителей с зарубежными больницами-партнерами.
+Международный медицинский центр предоставляет предварительные справки, информацию об административных процедурах, связанных с иммиграцией, и полное расписание больничных услуг.

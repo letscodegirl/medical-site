@@ -11,12 +11,14 @@ seo:
     hide-from-google: false
 ---
 
-## Adventures in Bali
+#### Направление медицинских консультаций
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Акушерство и гинекология - Бесплодие
 
-<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
+<img class="centered-img" src="https://mobile.busan.com/nas/wcms/wcms_data/photos/2022/11/28/2022112817580583480_l.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+#### Информация об учреждении
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+- Больница Сехва — это больница, которая в течение 30 лет следовала только одному пути, чтобы помочь бесплодным парам забеременеть: искусственное оплодотворение/ЭКО/азооспермия/банк спермы/привычный выкидыш – и прочее – это наши задачи.
+- Больница Сехва оснащена собственными современными системами для исследований, диагностики причин и лечения бесплодия, и вы можете получить оптимальное медицинское обслуживание в Больнице Сехва на протяжении всего процесса, от госпитализации до успешной беременности, в одном месте.
+- У нас есть профессиональный медицинский персонал с многолетним клиническим и исследовательским опытом, исследовательская группа, состоящая из магистров и докторантов, современная система стерильного культивирования и система замораживания, а также лучшие специалисты по лечению бесплодия, включая медсёстерский персонал, специализирующий на уходе в процессе лечения бесплодия, который может предоставить достаточные объяснения для супружеских пар, которые к нам приходят. В Больнице Сехва Вы можете получить лечение от бесплодия у профессионального медицинского персонала.

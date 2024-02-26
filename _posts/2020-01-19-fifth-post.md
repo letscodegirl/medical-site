@@ -11,12 +11,19 @@ seo:
     hide-from-google: false
 ---
 
-## Adventures in Bali
+#### Направление медицинских консультаций
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+Терапевтическое отделение, хирургия, акушерство и гинекология, педиатрия, семейная медицина, ортопедия, нейрохирургия, неврология, стоматология, урология, офтальмология, патология, отоларингология, радиология, анестезиология, лабораторная медицина, реабилитационная медицина, профессиональная и экологическая медицина, неотложная медицина, торакальная хирургия, психиатрия, отделение тяжелобольных
 
-<img src="https://source.unsplash.com/random?sig=9" class="one-half-image"><img src="https://source.unsplash.com/random?sig=9" class="one-half-image">
+<img class="centered-img" src="https://www.symcb.co.kr/data/file/gallery/988750198_mM57v8GU_cda613f4116fcc221079835730cc5c9827cb06bb.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+#### Информация об учреждении
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
+[Больница, в которой вы чувствуете себя хорошо, просто подумав об этом. Больница, в которой вы хотите лечиться больше всего]
+Пусанская больница Сам Юк была открыта в 1951 году и является больницей общего профиля, расположенной в районе Согу, г.Пусан. Мы храним 72-летнюю историю благотворительности.
+
+[Специализированные центры]
+Центр комплексного медицинского обследования, центр сердечно-цереброваскулярной хирургии, центр эндоскопии камней мочевыводящих путей (почек, мочеточников), центр эндоскопии желудочно-кишечного тракта, центр лечения сосудов и крови, центр искусственной почки, центр позвоночника и суставов, центр реабилитационного лечения, комплексный центр лечения рака
+
+[Установлено 180 связей с медицинскими учреждениями в 52 странах мира]
+Университетская больница Лома Линда, где открылось первое в мире отделение по протонному лечению рака, больницы Флориды, крупнейшие частные больницы в США, медицинский центр Сам Юк в Гонконге, получивший первый сертификат JCI, медицинский центр Сам Юк в Сиднее, крупнейшие частные больницы в Новом Южном Уэльсе и т. д.
