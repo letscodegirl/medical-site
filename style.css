@@ -188,6 +188,7 @@ a.bg-image { display: block;}
 .portrait-tall { padding-bottom: 175%; }
 .portrait      { padding-bottom: 125%; }
 .square        { padding-bottom: 100%; }
+.round         { border-radius: 50%;}
 
 
 /* Background Position */
@@ -431,6 +432,10 @@ nav a:hover {
   font-family: 'Mulish', serif;
   font-size: 1rem;
   line-height: 1.6;
+}
+
+.blog-content h4{
+  text-align: center;
 }
 
 .blog-content hr {

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <link rel="stylesheet" href="/main.css">
+</head>
+
+<body>
+
+  <header class="grid-2">
+    {% if page.lang == 'en' %}
+    <h1>logo</h1>
+    <nav class="center">
+      <a href="/">home</a>
+      <a href="/about">about</a>
+      <div class="dropdown-nav">
+        <div class="headerNav">lang</div>
+        <div class="dropdown-content">
+          <a href="#">En</a>
+          <a href="/de{{page.url}}">de</a>
+          <a href="/fr{{page.url}}">fr</a>
+        </div>
+      </div>
+    </nav>
+    {% elsif page.lang == 'fr' %}
+    <h1>logo</h1>
+    <nav class="center">
+      <a href="/fr/">home</a>
+      <a href="/fr/about">about</a>
+      <div class="dropdown-nav">
+        <div class="headerNav">lang</div>
+        <div class="dropdown-content">
+          <a href="{{page.url | replace:'/fr', '' }}">En</a>
+          <a href="{{page.url | replace:'/fr', '/de' }}">de</a>
+          <a href="#">fr</a>
+        </div>
+      </div>
+    </nav>
+    {% elsif page.lang == 'de' %}
+    <h1>logo</h1>
+    <nav class="center">
+      <a href="/de/">home</a>
+      <a href="/de/about">about</a>
+      <div class="dropdown-nav">
+        <div class="headerNav">lang</div>
+        <div class="dropdown-content">
+          <a href="{{page.url | replace:'/de', '' }}">En</a>
+          <a href="#">de</a>
+          <a href="{{page.url | replace:'/de', '/fr' }}">fr</a>
+        </div>
+      </div>
+    </nav>
+
+    {% endif %}
+  </header>
+
+  {{content}}
+</body>
+
+</html>
