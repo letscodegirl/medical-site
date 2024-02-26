@@ -568,7 +568,8 @@ hr.short.center {
 		.hide-xs { display: none;  }
 
     .subtle-heading-xs {
-      font-weight: 300;
-      font-family: 'Martel', serif;
+      font-weight: 700;
+      font-size: medium;
+      font-family: 'Mulish', serif;
     }
 }
