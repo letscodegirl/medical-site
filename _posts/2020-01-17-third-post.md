@@ -2,7 +2,7 @@
 layout: post
 title: Больница Хеундэ Бек при университете Индже
 featured: true
-featured_image: https://i.namu.wiki/i/Ql6ahPtbkAaRVFW_63OocV6t8r8F50kOniObkELxr0kQXJYo2NlWSgZ-HA7938F3blAsdLa59MBjOSwqoKGWUSh2joMAGIvZnGMQebE29bv7iugMJ0ntDU69Vymt5LOEimv-qNMAteETEz8FqWuouQ.webp
+featured_image: https://i.namu.wiki/i/IJyLwNfaTVlnMhf9thntwzLLdexvH68y_5S57_9iHZo8HCAnY_WvqYfrKOfPYtXpVOW5VoKxF2Y3jGz2TynZ6mYiploDywFysvjmQDBXQcpF57iwEAfzN31ZTYfLIxhh2EUPm3m_VksKts8Lz6lSPA.webp
 seo:
     title:
     description:
